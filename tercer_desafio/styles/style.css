@@ -1,0 +1,61 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+    color: #7a5648;
+}
+
+header img {
+    width: 100%;
+}
+
+nav ul {
+    margin-top: 0px;
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+nav ul li {
+    display: inline;
+    font-size: 1.5em;
+}
+
+nav ul li a {
+    color: #ef5e0c;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h3 {
+    color: white;
+    background-color: #7a5648;
+    font-size: 1.5em;
+}
+
+a {
+    font-weight: bold;
+}
+
+#alquileres a, #eleccion a {
+    color: #ef5e0c;
+
+}
+
+#laNacion {
+    color: rgb(24, 170, 227);
+}
+
+#pagina12 {
+    color: rgb(219, 88, 88);
+}
+
+#eleccion h3 {
+    color: rgb(207, 178, 33);
+}
+
+.separador {
+    font-size: 1rem;
+    font-weight: normal;
+    padding: 0px 6px 0px 2px;
+}
